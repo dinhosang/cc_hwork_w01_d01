@@ -1,0 +1,4 @@
+# ignoring python files
+*.py
+# except the main python file
+!main.py 
